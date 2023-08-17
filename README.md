@@ -1,4 +1,4 @@
-# kitchat
+# KitChat
 Python Script for conversation with openai.
 
 It need `openai` python library.
